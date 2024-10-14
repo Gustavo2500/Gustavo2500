@@ -25,7 +25,6 @@
 </p>
 <h2>Github stats</h2>
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo2500&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gustavo2500&theme=radical&date_format=j%20M%5B%20Y%5D&card_width=467)](https://git.io/streak-stats)
 
 
