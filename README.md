@@ -23,9 +23,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
 </p>
-<h2>Github stats</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gustavo2500&theme=radical&date_format=j%20M%5B%20Y%5D&card_width=467)](https://git.io/streak-stats)
 
 
 
