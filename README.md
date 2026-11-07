@@ -1,5 +1,4 @@
-### 👋 Hi, I’m Gustavo Grassi
----
+
 <h2>Skills and interests:</h2>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
